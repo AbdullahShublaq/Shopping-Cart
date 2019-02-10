@@ -1,5 +1,9 @@
 package shoppingCart2;
  
+/*
+auther : Abdullah Shublaq
+*/
+
 import java.util.Scanner;
 import java.util.ArrayList;
 
